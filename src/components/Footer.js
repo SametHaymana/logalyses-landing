@@ -39,7 +39,7 @@ function Footer() {
             <EmailIcon style={{ color: 'white' }} />
             <Box ml={1}>
               <Typography variant="caption" style={{ color: 'white' }}>
-                info@logalyses.com
+                developer@logalyses.com
               </Typography>
             </Box>
           </Box>

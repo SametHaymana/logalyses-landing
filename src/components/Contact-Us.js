@@ -9,7 +9,7 @@ function ContactUs() {
 
   // Function to handle mailto link
   const handleMailto = () => {
-    const mailtoUrl = `mailto:tolgasukruozkan@gmail.com?subject=Contact from ${firstName} ${lastName}&body=${message}%0D%0A%0D%0AFrom:%0D%0A${firstName} ${lastName}%0D%0AEmail: ${email}`;
+    const mailtoUrl = `mailto:tolgasukru.ozkan@logalyses.com?subject=Contact from ${firstName} ${lastName}&body=${message}%0D%0A%0D%0AFrom:%0D%0A${firstName} ${lastName}%0D%0AEmail: ${email}`;
     window.location.href = mailtoUrl;
   };
 
